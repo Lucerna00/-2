@@ -40,7 +40,7 @@
 # Mobile App Programming - DAIL_E
 # 🖥️ 프로젝트 소개
 * * *
-
+Old_ver Project : https://github.com/sher95/toeic_ai/blob/main/README.md
 # DAIL_E    
 >Day by day   
 >Artifical   

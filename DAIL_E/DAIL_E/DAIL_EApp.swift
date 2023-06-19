@@ -11,7 +11,7 @@ import SwiftUI
 struct DAIL_EApp: App {
     var body: some Scene {
         WindowGroup {
-            Home()
+            LounchScreenView()
         }
     }
 }

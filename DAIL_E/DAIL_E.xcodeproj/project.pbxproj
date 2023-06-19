@@ -39,6 +39,7 @@
 		4E7AF7802A231A63002615E7 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7AF77F2A231A63002615E7 /* ColorExtension.swift */; };
 		4E7AF7822A232925002615E7 /* VOCA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7AF7812A232925002615E7 /* VOCA.swift */; };
 		4E7AF7842A233BBC002615E7 /* WordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E7AF7832A233BBC002615E7 /* WordView.swift */; };
+		4EBBE94A2A410CD600F6231D /* LounchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EBBE9492A410CD600F6231D /* LounchScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +73,7 @@
 		4E7AF77F2A231A63002615E7 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		4E7AF7812A232925002615E7 /* VOCA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VOCA.swift; sourceTree = "<group>"; };
 		4E7AF7832A233BBC002615E7 /* WordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordView.swift; sourceTree = "<group>"; };
+		4EBBE9492A410CD600F6231D /* LounchScreen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LounchScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +195,7 @@
 		4EC157022A32D28E00E6FB18 /* User Interface */ = {
 			isa = PBXGroup;
 			children = (
+				4EBBE9492A410CD600F6231D /* LounchScreen.swift */,
 				4E7AF77A2A231291002615E7 /* Home.swift */,
 				4EC157002A32D1E200E6FB18 /* VOCA */,
 				4EC157042A32D30200E6FB18 /* TOEIC */,
@@ -326,6 +329,7 @@
 				4E509BA62A40E7F800417228 /* CalendarView.swift in Sources */,
 				4E5D88532A2C624E007A9911 /* Custom_Button.swift in Sources */,
 				4E12F44F2A402FC700C410E6 /* OpenAIService.swift in Sources */,
+				4EBBE94A2A410CD600F6231D /* LounchScreen.swift in Sources */,
 				4E12F4562A409B0100C410E6 /* DBHelper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -139,20 +139,26 @@ Database : SQlite
 # 🎮 실행화면
 * * *
 ## 로딩 화면 및 메인 페이지
-![test](https://github.com/sher95/toeic_ai/assets/29055106/5d7db739-cdb5-4bb4-a976-a5a1f30387c6)    
+![main](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/78478856-c551-4619-b63b-00d1cfa3702e) 
 
 ## 단어 추천 화면
-![test2](https://github.com/sher95/toeic_ai/assets/29055106/9c51c3a7-3f48-4972-a704-bfa691718a8f)
+![word](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/4b1193f9-a50f-45ac-b843-aa358fe3e401)
 
-## 단어 테스트 화면 (예시)
-![test2](https://github.com/sher95/toeic_ai/assets/29055106/9c51c3a7-3f48-4972-a704-bfa691718a8f)
 
-## 토익 문제 화면 (예시)
-![test2](https://github.com/sher95/toeic_ai/assets/29055106/9c51c3a7-3f48-4972-a704-bfa691718a8f)
 
-## 회화 채팅 화면 (예시)
-![test2](https://github.com/sher95/toeic_ai/assets/29055106/ae0a511d-25fe-42d0-9518-1fcf96873d58)
+## 단어 테스트 화면
+![word_test](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/5c6feabd-3dca-440a-8d37-58cde7c8bfca)
+![word_test_2](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/fa28ff57-4d64-4c02-945d-8e3f9b1d5abe)
 
-## 다이어리 화면 (예시)
-![test2](https://github.com/sher95/toeic_ai/assets/29055106/ae0a511d-25fe-42d0-9518-1fcf96873d58)
+## 토익 문제 화면 
+![toeic](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/6dfda573-b857-4cf1-87c1-7df23eb35385)
+
+## 회화 채팅 화면
+![chat](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/62a47935-25dc-4e2f-92a5-bb89e1a83464)
+
+## 다이어리 화면
+![diary](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/6a0748c2-877c-4cc7-95a9-e1a509788d4c)
+![diary_input](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/7107ee77-2804-43de-9cae-8ec934951d8f)
+![feedback](https://github.com/Lucerna00/mobile_app_programming_2/assets/29055106/850d44c8-428e-42b5-b6ba-fcac2b037541)
+
 

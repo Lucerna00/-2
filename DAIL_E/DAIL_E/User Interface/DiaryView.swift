@@ -30,6 +30,7 @@ struct DiaryView: View {
                             VStack{
                                 Button(action: { self.isShowingPlace.toggle() }) {
                                     Text("Place")
+                                        .foregroundColor(.mainColor)
                                 }.sheet(isPresented: $isShowingPlace, content: {
                                     AddressView(Place_tosave: $Place_tosave,isShwoingSheet: $isShowingPlace)
                                 })

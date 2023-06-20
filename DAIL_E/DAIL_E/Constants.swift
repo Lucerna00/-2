@@ -8,6 +8,6 @@
 import Foundation
 
 enum Constants {
-    static let openAIKey = "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"
-    static let toeicAIKey = "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"
+    static let openAIKey = ""
+    static let toeicAIKey = ""
 }

@@ -23,7 +23,7 @@ extension DiaryChatView{
         
         func sendFirstMesseage()
         {
-            command_feeling = "Please sympathize with the next sentence"
+            command_feeling = "Please give me the appropriate comment according to my feelings."
             command_feeling.append(diary_input)
             
             //메세지 생성
